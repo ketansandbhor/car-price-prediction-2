@@ -151,5 +151,8 @@ while True:
     cv2.waitKey(1)
     if cv2.waitKey(1) & 0XFF == ord('q'):
         break
+        
+        
+   # code are ended kow and i am just simle try it
 
 
